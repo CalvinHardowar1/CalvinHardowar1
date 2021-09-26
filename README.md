@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Calvin Hardowar</h1>
 <h3 align="center">Currently a freshman at Hunter College</h3>
 
-<<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3587000-Coding?utm_source=Clipboard_Shot&utm_campaign=guillaumekurkdjian&utm_content=Coding&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=guillaumekurkdjian&utm_content=Coding&utm_medium=Social_Share">>
+
+
 - 🔭 I’m currently working on **Hunter college computer science projects**
 
 - 📫 You can reach me at : **Hardowarcalvin@gmai.com**
 
 - 👾 I also practice game development -- **More unity hub games will be published soon!**
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
 
 
 <h3 align="left">Languages and Tools:</h3>
