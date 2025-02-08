@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Hunter college computer science projects**
 
-- 📫 You can reach me at : **Hardowarcalvin@gmai.com**
+- 📫 You can reach me at : **Hardowarcalvin@gmail.com**
 
 - 👾 I also practice game development -- **More unity hub games will be published soon!**
 
