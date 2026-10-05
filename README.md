@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Calvin Hardowar</h1>
-<h3 align="center">Currently a senior at Hunter College</h3>
+<h3 align="center">Currently a Hunter College Graduate</h3>
 
 
 
